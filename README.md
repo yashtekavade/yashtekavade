@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Tekavade</h1>
-<h3 align="center">I'm a self-learning passionate FrontEnd developer</h3>
 
-- 🔭 I’m currently working on **contact manager and portfolio**
+<h3 align="center">I'm a self-learning passionate Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Website Hacking Pentesting**
 
-- 💬 Ask me about **Figma**
+- 🌱 I’m currently learning **Pentesting**
 
 - 📫 How to reach me **yashtekavade@gmail.com**
 
