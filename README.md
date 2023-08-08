@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Tekavade</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtekavade&show=reviews)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
