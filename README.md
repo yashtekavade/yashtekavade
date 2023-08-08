@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Tekavade</h1>
 
-<h3 align="center">I'm a self-learning passionate Developer</h3>
-
-- 🔭 I’m currently working on **Website Hacking Pentesting**
-
-- 🌱 I’m currently learning **Pentesting**
-
-- 📫 How to reach me **yashtekavade@gmail.com**
-
-- ⚡ Fun fact **try hard coder**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yassh_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassh_12" height="30" width="40" /></a>
