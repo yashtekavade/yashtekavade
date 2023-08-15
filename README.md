@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Tekavade</h1>
+<h1 align="center">Yash Tekavade</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/yashtekavadee/">
