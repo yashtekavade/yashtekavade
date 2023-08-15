@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yash Tekavade</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yassh_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassh_12" height="30" width="40" /></a>
-<a href="https://instagram.com/yashtekavadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashtekavadee" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.instagram.com/yashtekavadee/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashtekavade/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/yAssH_12">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
