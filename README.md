@@ -1,9 +1,27 @@
 <h1 align="center">Yash Tekavade</h1>
 <h3 align="center">Work-Learner</h3>
-
+<p align="center" style="font-style: italic; color: gray; max-width: 600px;">
+  Passionate about building scalable system,data pipelines and automating cloud infrastructure.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,py,git,firebase,mysql,mongodb,figma,aws" />
+  <a href="https://skillicons.dev" title="Skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,git,terraform,jenkins,prometheus,linux,azure,mysql,dynamodb,git,figma&theme=dark&perline=7" 
+      alt="Data Engineering and DevOps Skills"
+      style="max-width: 100%; height: auto;"
+    />
   </a>
+</p>
+
+<!-- Missing skills as plain text below -->
+<p align="center" style="font-size: 18px; margin-top: -10px; font-weight: 600;">
+  spark | dbt | airflow | sql
+</p>
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none; color: #0A66C2; font-weight: 600;">LinkedIn</a> | 
+  <a href="https://your-substack-url.substack.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none; color: #FF6719; font-weight: 600;">Substack Blog</a> | 
+  <a href="mailto:your.email@example.com" style="margin: 0 15px; text-decoration: none; color: #D44638; font-weight: 600;">Email</a>
 </p>
