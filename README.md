@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://skillicons.dev" title="Skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,git,terraform,jenkins,prometheus,linux,azure,mysql,dynamodb,figma&theme=dark&perline=7" 
+      src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,git,linux,azure,mysql,dynamodb,figma&theme=dark&perline=7" 
       alt="Data Engineering and DevOps Skills"
       style="max-width: 100%; height: auto;"
     />
